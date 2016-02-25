@@ -1,0 +1,45 @@
+dependencies: \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/ParseManager.m \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Target\ Support\ Files/Parse/Parse-prefix.pch \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/ParseManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFConstants.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFDataProvider.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/LocalDataStore/OfflineStore/PFOfflineStore.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFMacros.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFExecutor.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/BFTask+Private.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFTask.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFCancellationToken.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFCancellationTokenRegistration.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFDefines.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFInternalUtils.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFEncoder.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Analytics/Controller/PFAnalyticsController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFAssert.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCommandCache.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFEventuallyQueue.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFNetworkCommand.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFConfig.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCoreManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCoreDataProvider.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFFileManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Installation/InstallationIdentifierStore/PFInstallationIdentifierStore.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/KeyValueCache/PFKeyValueCache.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFKeychainStore.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFLogging.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFLogger.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/MultiProcessLock/PFMultiProcessFileLockController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFPinningEventuallyQueue.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFUser.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFObject.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFACL.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFSubclassing.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Commands/CommandRunner/URLSession/PFURLSessionCommandRunner.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Commands/CommandRunner/PFCommandRunning.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Persistence/PFPersistenceController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Persistence/Group/PFPersistenceGroup.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Push/Manager/PFPushManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFInstallation.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Purchase/Controller/PFPurchaseController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFProduct.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFFile.h

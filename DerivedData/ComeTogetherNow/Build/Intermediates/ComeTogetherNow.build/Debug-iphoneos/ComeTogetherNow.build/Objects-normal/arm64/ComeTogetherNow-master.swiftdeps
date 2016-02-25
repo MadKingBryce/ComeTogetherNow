@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "188a70f525c3eead47a9be55cec340af"
+build_time: [507064001, 107121000]
+inputs:
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/SecondViewController.swift": [507063138, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/Models/Restaurant.swift": [506734605, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/FirstViewController.swift": [506781549, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/User.swift": [507063825, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/RestaurantCell.swift": [506733545, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/AppDelegate.swift": [506781981, 0]

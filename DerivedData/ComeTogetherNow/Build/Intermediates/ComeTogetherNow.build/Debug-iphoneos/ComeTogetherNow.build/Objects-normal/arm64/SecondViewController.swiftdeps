@@ -1,0 +1,1057 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SecondViewController"
+provides-nominal:
+- "C15ComeTogetherNow20SecondViewController"
+provides-member:
+- ["C15ComeTogetherNow20SecondViewController", ""]
+provides-dynamic-lookup:
+- "tableView"
+- "tableView"
+- "restList"
+- "user"
+- "queryForTable"
+- "numberOfSectionsInTableView"
+- "didReceiveMemoryWarning"
+- "listOfRestrauntsTableView"
+- "viewDidLoad"
+depends-top-level:
+- !private "PFUser"
+- "NSIndexPath"
+- "Restaurant"
+- !private "Void"
+- !private "=="
+- "UITableViewCell"
+- !private "StringLiteralType"
+- "Int"
+- !private "String"
+- !private "PFGeoPoint"
+- !private "print"
+- "CLLocationManagerDelegate"
+- "User"
+- "SecondViewController"
+- "UIViewController"
+- "UITableView"
+- "UITableViewDataSource"
+- !private "RestaurantCell"
+depends-member:
+- !private ["PSs9AnyObject", "PFGeoPoint"]
+- !private ["PSs9AnyObject", "PFUser"]
+- !private ["PSs9AnyObject", "Restaurant"]
+- !private ["PSs9AnyObject", "String"]
+- ["PSs9AnyObject", "User"]
+- !private ["PSs9AnyObject", "awayLabel"]
+- !private ["PSs9AnyObject", "currentUser"]
+- !private ["PSs9AnyObject", "dataSource"]
+- !private ["PSs9AnyObject", "dequeueReusableCellWithIdentifier"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- !private ["PSs9AnyObject", "distanceInMilesTo"]
+- !private ["PSs9AnyObject", "findObjectsInBackgroundWithBlock"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "lastLocation"]
+- !private ["PSs9AnyObject", "latitude"]
+- !private ["PSs9AnyObject", "limit"]
+- ["PSs9AnyObject", "listOfRestrauntsTableView"]
+- ["PSs9AnyObject", "locationManager"]
+- ["PSs9AnyObject", "locationManagerDidPauseLocationUpdates"]
+- ["PSs9AnyObject", "locationManagerDidResumeLocationUpdates"]
+- ["PSs9AnyObject", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSs9AnyObject", "longitude"]
+- !private ["PSs9AnyObject", "name"]
+- !private ["PSs9AnyObject", "nameLabel"]
+- ["PSs9AnyObject", "numberOfSectionsInTableView"]
+- !private ["PSs9AnyObject", "print"]
+- !private ["PSs9AnyObject", "query"]
+- ["PSs9AnyObject", "queryForTable"]
+- !private ["PSs9AnyObject", "reloadData"]
+- ["PSs9AnyObject", "restList"]
+- !private ["PSs9AnyObject", "row"]
+- ["PSs9AnyObject", "sectionIndexTitlesForTableView"]
+- ["PSs9AnyObject", "tableView"]
+- !private ["PSs9AnyObject", "text"]
+- ["PSs9AnyObject", "user"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", ""]
+- !private ["Sa", "Generator"]
+- !private ["Sa", "Index"]
+- !private ["Sa", "SubSequence"]
+- !private ["Sa", "count"]
+- !private ["Sa", "deinit"]
+- !private ["Sa", "subscript"]
+- !private ["PSs23ArrayLiteralConvertible", "Generator"]
+- !private ["PSs23ArrayLiteralConvertible", "Index"]
+- !private ["PSs23ArrayLiteralConvertible", "SubSequence"]
+- !private ["PSs23ArrayLiteralConvertible", "count"]
+- !private ["PSs23ArrayLiteralConvertible", "subscript"]
+- !private ["VSs10ArraySlice", "Generator"]
+- !private ["VSs10ArraySlice", "Index"]
+- !private ["PSs22BidirectionalIndexType", "Distance"]
+- !private ["PSs22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["PSs21BitwiseOperationsType", "Distance"]
+- !private ["PSs21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSo25CLLocationManagerDelegate", "PFGeoPoint"]
+- !private ["PSo25CLLocationManagerDelegate", "PFUser"]
+- !private ["PSo25CLLocationManagerDelegate", "Restaurant"]
+- !private ["PSo25CLLocationManagerDelegate", "String"]
+- ["PSo25CLLocationManagerDelegate", "User"]
+- !private ["PSo25CLLocationManagerDelegate", "listOfRestrauntsTableView"]
+- ["PSo25CLLocationManagerDelegate", "locationManager"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerDidPauseLocationUpdates"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerDidResumeLocationUpdates"]
+- ["PSo25CLLocationManagerDelegate", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo25CLLocationManagerDelegate", "numberOfSectionsInTableView"]
+- !private ["PSo25CLLocationManagerDelegate", "print"]
+- !private ["PSo25CLLocationManagerDelegate", "queryForTable"]
+- !private ["PSo25CLLocationManagerDelegate", "restList"]
+- ["PSo25CLLocationManagerDelegate", "sectionIndexTitlesForTableView"]
+- ["PSo25CLLocationManagerDelegate", "tableView"]
+- !private ["PSo25CLLocationManagerDelegate", "user"]
+- ["PSo25CLLocationManagerDelegate", ""]
+- !private ["PSs11CVarArgType", "Distance"]
+- !private ["PSs11CVarArgType", "IntegerLiteralType"]
+- !private ["PSs11CVarArgType", "PFGeoPoint"]
+- !private ["PSs11CVarArgType", "PFUser"]
+- !private ["PSs11CVarArgType", "Restaurant"]
+- !private ["PSs11CVarArgType", "String"]
+- ["PSs11CVarArgType", "User"]
+- !private ["PSs11CVarArgType", "awayLabel"]
+- !private ["PSs11CVarArgType", "currentUser"]
+- !private ["PSs11CVarArgType", "dataSource"]
+- !private ["PSs11CVarArgType", "dequeueReusableCellWithIdentifier"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- !private ["PSs11CVarArgType", "distanceInMilesTo"]
+- !private ["PSs11CVarArgType", "findObjectsInBackgroundWithBlock"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "lastLocation"]
+- !private ["PSs11CVarArgType", "latitude"]
+- !private ["PSs11CVarArgType", "limit"]
+- ["PSs11CVarArgType", "listOfRestrauntsTableView"]
+- ["PSs11CVarArgType", "locationManager"]
+- ["PSs11CVarArgType", "locationManagerDidPauseLocationUpdates"]
+- ["PSs11CVarArgType", "locationManagerDidResumeLocationUpdates"]
+- ["PSs11CVarArgType", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSs11CVarArgType", "longitude"]
+- !private ["PSs11CVarArgType", "name"]
+- !private ["PSs11CVarArgType", "nameLabel"]
+- ["PSs11CVarArgType", "numberOfSectionsInTableView"]
+- !private ["PSs11CVarArgType", "print"]
+- !private ["PSs11CVarArgType", "query"]
+- ["PSs11CVarArgType", "queryForTable"]
+- !private ["PSs11CVarArgType", "reloadData"]
+- ["PSs11CVarArgType", "restList"]
+- !private ["PSs11CVarArgType", "row"]
+- ["PSs11CVarArgType", "sectionIndexTitlesForTableView"]
+- ["PSs11CVarArgType", "tableView"]
+- !private ["PSs11CVarArgType", "text"]
+- ["PSs11CVarArgType", "user"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", ""]
+- !private ["VSs9Character", "deinit"]
+- !private ["PSs14CollectionType", "Generator"]
+- !private ["PSs14CollectionType", "Index"]
+- !private ["PSs14CollectionType", "SubSequence"]
+- !private ["PSs14CollectionType", "_Element"]
+- !private ["PSs14CollectionType", "count"]
+- !private ["PSs14CollectionType", "subscript"]
+- !private ["PSs10Comparable", "Distance"]
+- !private ["PSs10Comparable", "IntegerLiteralType"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "Generator"]
+- !private ["PSs28CustomDebugStringConvertible", "Index"]
+- !private ["PSs28CustomDebugStringConvertible", "SubSequence"]
+- !private ["PSs28CustomDebugStringConvertible", "count"]
+- !private ["PSs28CustomDebugStringConvertible", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "subscript"]
+- !private ["PSs23CustomStringConvertible", "Distance"]
+- !private ["PSs23CustomStringConvertible", "Generator"]
+- !private ["PSs23CustomStringConvertible", "Index"]
+- !private ["PSs23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["PSs23CustomStringConvertible", "PFGeoPoint"]
+- !private ["PSs23CustomStringConvertible", "PFUser"]
+- !private ["PSs23CustomStringConvertible", "Restaurant"]
+- !private ["PSs23CustomStringConvertible", "String"]
+- !private ["PSs23CustomStringConvertible", "SubSequence"]
+- ["PSs23CustomStringConvertible", "User"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs23CustomStringConvertible", "awayLabel"]
+- !private ["PSs23CustomStringConvertible", "count"]
+- !private ["PSs23CustomStringConvertible", "currentUser"]
+- !private ["PSs23CustomStringConvertible", "dataSource"]
+- !private ["PSs23CustomStringConvertible", "dequeueReusableCellWithIdentifier"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- !private ["PSs23CustomStringConvertible", "distanceInMilesTo"]
+- !private ["PSs23CustomStringConvertible", "findObjectsInBackgroundWithBlock"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "lastLocation"]
+- !private ["PSs23CustomStringConvertible", "latitude"]
+- !private ["PSs23CustomStringConvertible", "limit"]
+- ["PSs23CustomStringConvertible", "listOfRestrauntsTableView"]
+- ["PSs23CustomStringConvertible", "locationManager"]
+- ["PSs23CustomStringConvertible", "locationManagerDidPauseLocationUpdates"]
+- ["PSs23CustomStringConvertible", "locationManagerDidResumeLocationUpdates"]
+- ["PSs23CustomStringConvertible", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSs23CustomStringConvertible", "longitude"]
+- !private ["PSs23CustomStringConvertible", "name"]
+- !private ["PSs23CustomStringConvertible", "nameLabel"]
+- ["PSs23CustomStringConvertible", "numberOfSectionsInTableView"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- !private ["PSs23CustomStringConvertible", "query"]
+- ["PSs23CustomStringConvertible", "queryForTable"]
+- !private ["PSs23CustomStringConvertible", "reloadData"]
+- ["PSs23CustomStringConvertible", "restList"]
+- !private ["PSs23CustomStringConvertible", "row"]
+- ["PSs23CustomStringConvertible", "sectionIndexTitlesForTableView"]
+- !private ["PSs23CustomStringConvertible", "subscript"]
+- ["PSs23CustomStringConvertible", "tableView"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- ["PSs23CustomStringConvertible", "user"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "Distance"]
+- !private ["PSs9Equatable", "IntegerLiteralType"]
+- !private ["PSs9Equatable", "PFGeoPoint"]
+- !private ["PSs9Equatable", "PFUser"]
+- !private ["PSs9Equatable", "Restaurant"]
+- !private ["PSs9Equatable", "String"]
+- ["PSs9Equatable", "User"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- !private ["PSs9Equatable", "awayLabel"]
+- !private ["PSs9Equatable", "currentUser"]
+- !private ["PSs9Equatable", "dataSource"]
+- !private ["PSs9Equatable", "dequeueReusableCellWithIdentifier"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- !private ["PSs9Equatable", "distanceInMilesTo"]
+- !private ["PSs9Equatable", "findObjectsInBackgroundWithBlock"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "lastLocation"]
+- !private ["PSs9Equatable", "latitude"]
+- !private ["PSs9Equatable", "limit"]
+- ["PSs9Equatable", "listOfRestrauntsTableView"]
+- ["PSs9Equatable", "locationManager"]
+- ["PSs9Equatable", "locationManagerDidPauseLocationUpdates"]
+- ["PSs9Equatable", "locationManagerDidResumeLocationUpdates"]
+- ["PSs9Equatable", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSs9Equatable", "longitude"]
+- !private ["PSs9Equatable", "name"]
+- !private ["PSs9Equatable", "nameLabel"]
+- ["PSs9Equatable", "numberOfSectionsInTableView"]
+- !private ["PSs9Equatable", "print"]
+- !private ["PSs9Equatable", "query"]
+- ["PSs9Equatable", "queryForTable"]
+- !private ["PSs9Equatable", "reloadData"]
+- ["PSs9Equatable", "restList"]
+- !private ["PSs9Equatable", "row"]
+- ["PSs9Equatable", "sectionIndexTitlesForTableView"]
+- ["PSs9Equatable", "tableView"]
+- !private ["PSs9Equatable", "text"]
+- ["PSs9Equatable", "user"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["PSs16ForwardIndexType", "Distance"]
+- !private ["PSs16ForwardIndexType", "IntegerLiteralType"]
+- !private ["PSs13GeneratorType", "Element"]
+- !private ["PSs8Hashable", "Distance"]
+- !private ["PSs8Hashable", "IntegerLiteralType"]
+- !private ["PSs8Hashable", "PFGeoPoint"]
+- !private ["PSs8Hashable", "PFUser"]
+- !private ["PSs8Hashable", "Restaurant"]
+- !private ["PSs8Hashable", "String"]
+- ["PSs8Hashable", "User"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- !private ["PSs8Hashable", "awayLabel"]
+- !private ["PSs8Hashable", "currentUser"]
+- !private ["PSs8Hashable", "dataSource"]
+- !private ["PSs8Hashable", "dequeueReusableCellWithIdentifier"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- !private ["PSs8Hashable", "distanceInMilesTo"]
+- !private ["PSs8Hashable", "findObjectsInBackgroundWithBlock"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "lastLocation"]
+- !private ["PSs8Hashable", "latitude"]
+- !private ["PSs8Hashable", "limit"]
+- ["PSs8Hashable", "listOfRestrauntsTableView"]
+- ["PSs8Hashable", "locationManager"]
+- ["PSs8Hashable", "locationManagerDidPauseLocationUpdates"]
+- ["PSs8Hashable", "locationManagerDidResumeLocationUpdates"]
+- ["PSs8Hashable", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSs8Hashable", "longitude"]
+- !private ["PSs8Hashable", "name"]
+- !private ["PSs8Hashable", "nameLabel"]
+- ["PSs8Hashable", "numberOfSectionsInTableView"]
+- !private ["PSs8Hashable", "print"]
+- !private ["PSs8Hashable", "query"]
+- ["PSs8Hashable", "queryForTable"]
+- !private ["PSs8Hashable", "reloadData"]
+- ["PSs8Hashable", "restList"]
+- !private ["PSs8Hashable", "row"]
+- ["PSs8Hashable", "sectionIndexTitlesForTableView"]
+- ["PSs8Hashable", "tableView"]
+- !private ["PSs8Hashable", "text"]
+- ["PSs8Hashable", "user"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Generator"]
+- !private ["PSs9Indexable", "Index"]
+- !private ["PSs9Indexable", "SubSequence"]
+- !private ["PSs9Indexable", "_Element"]
+- !private ["PSs9Indexable", "count"]
+- !private ["PSs9Indexable", "subscript"]
+- !private ["VSs17IndexingGenerator", "Element"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["VSs5Int16", "deinit"]
+- !private ["VSs5Int32", "deinit"]
+- !private ["VSs5Int64", "deinit"]
+- !private ["VSs4Int8", "deinit"]
+- !private ["PSs21IntegerArithmeticType", "Distance"]
+- !private ["PSs21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs25IntegerLiteralConvertible", "Distance"]
+- !private ["PSs25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs11IntegerType", "Distance"]
+- !private ["PSs11IntegerType", "IntegerLiteralType"]
+- !private ["PSs14MirrorPathType", "Distance"]
+- !private ["PSs14MirrorPathType", "IntegerLiteralType"]
+- !private ["PSs14MirrorPathType", "init"]
+- !private ["PSs21MutableCollectionType", "Generator"]
+- !private ["PSs21MutableCollectionType", "Index"]
+- !private ["PSs21MutableCollectionType", "SubSequence"]
+- !private ["PSs21MutableCollectionType", "count"]
+- !private ["PSs21MutableCollectionType", "subscript"]
+- !private ["PSs16MutableIndexable", "Generator"]
+- !private ["PSs16MutableIndexable", "Index"]
+- !private ["PSs16MutableIndexable", "SubSequence"]
+- !private ["PSs16MutableIndexable", "count"]
+- !private ["PSs16MutableIndexable", "subscript"]
+- !private ["PSs16MutableSliceable", "Generator"]
+- !private ["PSs16MutableSliceable", "Index"]
+- !private ["PSs16MutableSliceable", "SubSequence"]
+- !private ["PSs16MutableSliceable", "count"]
+- !private ["PSs16MutableSliceable", "subscript"]
+- !private ["PSo8NSCoding", "PFGeoPoint"]
+- !private ["PSo8NSCoding", "PFUser"]
+- !private ["PSo8NSCoding", "Restaurant"]
+- !private ["PSo8NSCoding", "String"]
+- ["PSo8NSCoding", "User"]
+- !private ["PSo8NSCoding", "awayLabel"]
+- !private ["PSo8NSCoding", "dataSource"]
+- !private ["PSo8NSCoding", "dequeueReusableCellWithIdentifier"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- !private ["PSo8NSCoding", "distanceInMilesTo"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "listOfRestrauntsTableView"]
+- ["PSo8NSCoding", "locationManager"]
+- ["PSo8NSCoding", "locationManagerDidPauseLocationUpdates"]
+- ["PSo8NSCoding", "locationManagerDidResumeLocationUpdates"]
+- ["PSo8NSCoding", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo8NSCoding", "nameLabel"]
+- ["PSo8NSCoding", "numberOfSectionsInTableView"]
+- !private ["PSo8NSCoding", "print"]
+- ["PSo8NSCoding", "queryForTable"]
+- !private ["PSo8NSCoding", "reloadData"]
+- ["PSo8NSCoding", "restList"]
+- !private ["PSo8NSCoding", "row"]
+- ["PSo8NSCoding", "sectionIndexTitlesForTableView"]
+- ["PSo8NSCoding", "tableView"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "user"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "distanceInMilesTo"]
+- !private ["PSo9NSCopying", "findObjectsInBackgroundWithBlock"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "limit"]
+- !private ["PSo9NSCopying", "row"]
+- !private ["PSo26NSExtensionRequestHandling", "PFGeoPoint"]
+- !private ["PSo26NSExtensionRequestHandling", "PFUser"]
+- !private ["PSo26NSExtensionRequestHandling", "Restaurant"]
+- !private ["PSo26NSExtensionRequestHandling", "String"]
+- ["PSo26NSExtensionRequestHandling", "User"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "listOfRestrauntsTableView"]
+- ["PSo26NSExtensionRequestHandling", "locationManager"]
+- ["PSo26NSExtensionRequestHandling", "locationManagerDidPauseLocationUpdates"]
+- ["PSo26NSExtensionRequestHandling", "locationManagerDidResumeLocationUpdates"]
+- ["PSo26NSExtensionRequestHandling", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo26NSExtensionRequestHandling", "numberOfSectionsInTableView"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- ["PSo26NSExtensionRequestHandling", "queryForTable"]
+- ["PSo26NSExtensionRequestHandling", "restList"]
+- ["PSo26NSExtensionRequestHandling", "sectionIndexTitlesForTableView"]
+- ["PSo26NSExtensionRequestHandling", "tableView"]
+- ["PSo26NSExtensionRequestHandling", "user"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["CSo11NSIndexPath", "row"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "NSIndexPath"]
+- !private ["CSo8NSObject", "PFGeoPoint"]
+- !private ["CSo8NSObject", "PFUser"]
+- ["CSo8NSObject", "Restaurant"]
+- !private ["CSo8NSObject", "RestaurantCell"]
+- !private ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UITableView"]
+- ["CSo8NSObject", "UITableViewCell"]
+- ["CSo8NSObject", "User"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "awayLabel"]
+- !private ["CSo8NSObject", "currentUser"]
+- !private ["CSo8NSObject", "dataSource"]
+- !private ["CSo8NSObject", "dequeueReusableCellWithIdentifier"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- !private ["CSo8NSObject", "distanceInMilesTo"]
+- !private ["CSo8NSObject", "findObjectsInBackgroundWithBlock"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lastLocation"]
+- !private ["CSo8NSObject", "latitude"]
+- !private ["CSo8NSObject", "limit"]
+- ["CSo8NSObject", "listOfRestrauntsTableView"]
+- ["CSo8NSObject", "locationManager"]
+- ["CSo8NSObject", "locationManagerDidPauseLocationUpdates"]
+- ["CSo8NSObject", "locationManagerDidResumeLocationUpdates"]
+- ["CSo8NSObject", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["CSo8NSObject", "longitude"]
+- !private ["CSo8NSObject", "name"]
+- !private ["CSo8NSObject", "nameLabel"]
+- ["CSo8NSObject", "numberOfSectionsInTableView"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "query"]
+- ["CSo8NSObject", "queryForTable"]
+- !private ["CSo8NSObject", "reloadData"]
+- ["CSo8NSObject", "restList"]
+- !private ["CSo8NSObject", "row"]
+- ["CSo8NSObject", "sectionIndexTitlesForTableView"]
+- ["CSo8NSObject", "tableView"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "user"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "PFGeoPoint"]
+- !private ["PSo16NSObjectProtocol", "PFUser"]
+- !private ["PSo16NSObjectProtocol", "Restaurant"]
+- !private ["PSo16NSObjectProtocol", "String"]
+- ["PSo16NSObjectProtocol", "User"]
+- !private ["PSo16NSObjectProtocol", "awayLabel"]
+- !private ["PSo16NSObjectProtocol", "currentUser"]
+- !private ["PSo16NSObjectProtocol", "dataSource"]
+- !private ["PSo16NSObjectProtocol", "dequeueReusableCellWithIdentifier"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- !private ["PSo16NSObjectProtocol", "distanceInMilesTo"]
+- !private ["PSo16NSObjectProtocol", "findObjectsInBackgroundWithBlock"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lastLocation"]
+- !private ["PSo16NSObjectProtocol", "latitude"]
+- !private ["PSo16NSObjectProtocol", "limit"]
+- ["PSo16NSObjectProtocol", "listOfRestrauntsTableView"]
+- ["PSo16NSObjectProtocol", "locationManager"]
+- ["PSo16NSObjectProtocol", "locationManagerDidPauseLocationUpdates"]
+- ["PSo16NSObjectProtocol", "locationManagerDidResumeLocationUpdates"]
+- ["PSo16NSObjectProtocol", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo16NSObjectProtocol", "longitude"]
+- !private ["PSo16NSObjectProtocol", "name"]
+- !private ["PSo16NSObjectProtocol", "nameLabel"]
+- ["PSo16NSObjectProtocol", "numberOfSectionsInTableView"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "query"]
+- ["PSo16NSObjectProtocol", "queryForTable"]
+- !private ["PSo16NSObjectProtocol", "reloadData"]
+- ["PSo16NSObjectProtocol", "restList"]
+- !private ["PSo16NSObjectProtocol", "row"]
+- ["PSo16NSObjectProtocol", "sectionIndexTitlesForTableView"]
+- ["PSo16NSObjectProtocol", "tableView"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "user"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "row"]
+- !private ["CSo8NSString", "deinit"]
+- !private ["CSo8NSString", "init"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16OutputStreamType", "init"]
+- !private ["CSo10PFGeoPoint", "distanceInMilesTo"]
+- !private ["CSo10PFGeoPoint", "init"]
+- !private ["CSo8PFObject", "currentUser"]
+- ["CSo8PFObject", "init"]
+- !private ["CSo8PFObject", "lastLocation"]
+- !private ["CSo8PFObject", "latitude"]
+- !private ["CSo8PFObject", "longitude"]
+- !private ["CSo8PFObject", "name"]
+- !private ["CSo8PFObject", "query"]
+- !private ["CSo7PFQuery", "findObjectsInBackgroundWithBlock"]
+- !private ["CSo7PFQuery", "limit"]
+- !private ["PSo13PFSubclassing", "currentUser"]
+- ["PSo13PFSubclassing", "init"]
+- !private ["PSo13PFSubclassing", "lastLocation"]
+- !private ["PSo13PFSubclassing", "latitude"]
+- !private ["PSo13PFSubclassing", "longitude"]
+- !private ["PSo13PFSubclassing", "name"]
+- !private ["PSo13PFSubclassing", "query"]
+- !private ["CSo6PFUser", "currentUser"]
+- ["CSo6PFUser", "init"]
+- !private ["CSo6PFUser", "lastLocation"]
+- !private ["PSs21RandomAccessIndexType", "Distance"]
+- !private ["PSs21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["PSs30RangeReplaceableCollectionType", "Generator"]
+- !private ["PSs30RangeReplaceableCollectionType", "Index"]
+- !private ["PSs30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["PSs30RangeReplaceableCollectionType", "count"]
+- !private ["PSs30RangeReplaceableCollectionType", "subscript"]
+- !private ["C15ComeTogetherNow10Restaurant", "latitude"]
+- !private ["C15ComeTogetherNow10Restaurant", "longitude"]
+- !private ["C15ComeTogetherNow10Restaurant", "name"]
+- !private ["C15ComeTogetherNow10Restaurant", "query"]
+- !private ["C15ComeTogetherNow14RestaurantCell", "awayLabel"]
+- !private ["C15ComeTogetherNow14RestaurantCell", "nameLabel"]
+- ["C15ComeTogetherNow20SecondViewController", "Int"]
+- ["C15ComeTogetherNow20SecondViewController", "NSIndexPath"]
+- !private ["C15ComeTogetherNow20SecondViewController", "PFGeoPoint"]
+- !private ["C15ComeTogetherNow20SecondViewController", "PFUser"]
+- ["C15ComeTogetherNow20SecondViewController", "Restaurant"]
+- !private ["C15ComeTogetherNow20SecondViewController", "RestaurantCell"]
+- !private ["C15ComeTogetherNow20SecondViewController", "String"]
+- ["C15ComeTogetherNow20SecondViewController", "UITableView"]
+- ["C15ComeTogetherNow20SecondViewController", "UITableViewCell"]
+- ["C15ComeTogetherNow20SecondViewController", "User"]
+- !private ["C15ComeTogetherNow20SecondViewController", "Void"]
+- ["C15ComeTogetherNow20SecondViewController", "deinit"]
+- ["C15ComeTogetherNow20SecondViewController", "didReceiveMemoryWarning"]
+- ["C15ComeTogetherNow20SecondViewController", "init"]
+- ["C15ComeTogetherNow20SecondViewController", "listOfRestrauntsTableView"]
+- ["C15ComeTogetherNow20SecondViewController", "locationManager"]
+- ["C15ComeTogetherNow20SecondViewController", "locationManagerDidPauseLocationUpdates"]
+- ["C15ComeTogetherNow20SecondViewController", "locationManagerDidResumeLocationUpdates"]
+- ["C15ComeTogetherNow20SecondViewController", "locationManagerShouldDisplayHeadingCalibration"]
+- ["C15ComeTogetherNow20SecondViewController", "numberOfSectionsInTableView"]
+- !private ["C15ComeTogetherNow20SecondViewController", "print"]
+- ["C15ComeTogetherNow20SecondViewController", "queryForTable"]
+- ["C15ComeTogetherNow20SecondViewController", "restList"]
+- ["C15ComeTogetherNow20SecondViewController", "sectionIndexTitlesForTableView"]
+- ["C15ComeTogetherNow20SecondViewController", "tableView"]
+- ["C15ComeTogetherNow20SecondViewController", "user"]
+- ["C15ComeTogetherNow20SecondViewController", "viewDidLoad"]
+- !private ["PSs12SequenceType", "Element"]
+- !private ["PSs12SequenceType", "Generator"]
+- !private ["PSs12SequenceType", "Index"]
+- !private ["PSs12SequenceType", "SubSequence"]
+- !private ["PSs12SequenceType", "_Element"]
+- !private ["PSs12SequenceType", "count"]
+- !private ["PSs12SequenceType", "subscript"]
+- !private ["PSs17SignedIntegerType", "Distance"]
+- !private ["PSs17SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs16SignedNumberType", "Distance"]
+- !private ["PSs16SignedNumberType", "IntegerLiteralType"]
+- !private ["VSs5Slice", "Generator"]
+- !private ["VSs5Slice", "Index"]
+- !private ["VSs5Slice", "SubSequence"]
+- !private ["VSs5Slice", "_Element"]
+- !private ["PSs10Streamable", "init"]
+- !private ["PSs10Strideable", "Distance"]
+- !private ["PSs10Strideable", "IntegerLiteralType"]
+- !private ["SS", "init"]
+- !private ["PSs30StringInterpolationConvertible", "init"]
+- !private ["PSs24StringLiteralConvertible", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "awayLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "dataSource"]
+- !private ["PSo29UIAccessibilityIdentification", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo29UIAccessibilityIdentification", "nameLabel"]
+- !private ["PSo29UIAccessibilityIdentification", "reloadData"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "awayLabel"]
+- !private ["PSo12UIAppearance", "dataSource"]
+- !private ["PSo12UIAppearance", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo12UIAppearance", "nameLabel"]
+- !private ["PSo12UIAppearance", "reloadData"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "PFGeoPoint"]
+- !private ["PSo21UIAppearanceContainer", "PFUser"]
+- !private ["PSo21UIAppearanceContainer", "Restaurant"]
+- !private ["PSo21UIAppearanceContainer", "String"]
+- ["PSo21UIAppearanceContainer", "User"]
+- !private ["PSo21UIAppearanceContainer", "awayLabel"]
+- !private ["PSo21UIAppearanceContainer", "dataSource"]
+- !private ["PSo21UIAppearanceContainer", "dequeueReusableCellWithIdentifier"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "listOfRestrauntsTableView"]
+- ["PSo21UIAppearanceContainer", "locationManager"]
+- ["PSo21UIAppearanceContainer", "locationManagerDidPauseLocationUpdates"]
+- ["PSo21UIAppearanceContainer", "locationManagerDidResumeLocationUpdates"]
+- ["PSo21UIAppearanceContainer", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo21UIAppearanceContainer", "nameLabel"]
+- ["PSo21UIAppearanceContainer", "numberOfSectionsInTableView"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "queryForTable"]
+- !private ["PSo21UIAppearanceContainer", "reloadData"]
+- ["PSo21UIAppearanceContainer", "restList"]
+- ["PSo21UIAppearanceContainer", "sectionIndexTitlesForTableView"]
+- ["PSo21UIAppearanceContainer", "tableView"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "user"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "PFGeoPoint"]
+- !private ["PSo18UIContentContainer", "PFUser"]
+- !private ["PSo18UIContentContainer", "Restaurant"]
+- !private ["PSo18UIContentContainer", "String"]
+- ["PSo18UIContentContainer", "User"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "listOfRestrauntsTableView"]
+- ["PSo18UIContentContainer", "locationManager"]
+- ["PSo18UIContentContainer", "locationManagerDidPauseLocationUpdates"]
+- ["PSo18UIContentContainer", "locationManagerDidResumeLocationUpdates"]
+- ["PSo18UIContentContainer", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo18UIContentContainer", "numberOfSectionsInTableView"]
+- !private ["PSo18UIContentContainer", "print"]
+- ["PSo18UIContentContainer", "queryForTable"]
+- ["PSo18UIContentContainer", "restList"]
+- ["PSo18UIContentContainer", "sectionIndexTitlesForTableView"]
+- ["PSo18UIContentContainer", "tableView"]
+- ["PSo18UIContentContainer", "user"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "awayLabel"]
+- !private ["PSo17UICoordinateSpace", "dataSource"]
+- !private ["PSo17UICoordinateSpace", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo17UICoordinateSpace", "nameLabel"]
+- !private ["PSo17UICoordinateSpace", "reloadData"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "awayLabel"]
+- !private ["PSo13UIDynamicItem", "dataSource"]
+- !private ["PSo13UIDynamicItem", "dequeueReusableCellWithIdentifier"]
+- !private ["PSo13UIDynamicItem", "nameLabel"]
+- !private ["PSo13UIDynamicItem", "reloadData"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "PFGeoPoint"]
+- !private ["PSo18UIFocusEnvironment", "PFUser"]
+- !private ["PSo18UIFocusEnvironment", "Restaurant"]
+- !private ["PSo18UIFocusEnvironment", "String"]
+- ["PSo18UIFocusEnvironment", "User"]
+- !private ["PSo18UIFocusEnvironment", "awayLabel"]
+- !private ["PSo18UIFocusEnvironment", "dataSource"]
+- !private ["PSo18UIFocusEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "listOfRestrauntsTableView"]
+- ["PSo18UIFocusEnvironment", "locationManager"]
+- ["PSo18UIFocusEnvironment", "locationManagerDidPauseLocationUpdates"]
+- ["PSo18UIFocusEnvironment", "locationManagerDidResumeLocationUpdates"]
+- ["PSo18UIFocusEnvironment", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo18UIFocusEnvironment", "nameLabel"]
+- ["PSo18UIFocusEnvironment", "numberOfSectionsInTableView"]
+- !private ["PSo18UIFocusEnvironment", "print"]
+- ["PSo18UIFocusEnvironment", "queryForTable"]
+- !private ["PSo18UIFocusEnvironment", "reloadData"]
+- ["PSo18UIFocusEnvironment", "restList"]
+- ["PSo18UIFocusEnvironment", "sectionIndexTitlesForTableView"]
+- ["PSo18UIFocusEnvironment", "tableView"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- ["PSo18UIFocusEnvironment", "user"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo27UIGestureRecognizerDelegate", "awayLabel"]
+- !private ["PSo27UIGestureRecognizerDelegate", "nameLabel"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "NSIndexPath"]
+- !private ["CSo11UIResponder", "PFGeoPoint"]
+- !private ["CSo11UIResponder", "PFUser"]
+- ["CSo11UIResponder", "Restaurant"]
+- !private ["CSo11UIResponder", "RestaurantCell"]
+- !private ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UITableView"]
+- ["CSo11UIResponder", "UITableViewCell"]
+- ["CSo11UIResponder", "User"]
+- !private ["CSo11UIResponder", "Void"]
+- !private ["CSo11UIResponder", "awayLabel"]
+- !private ["CSo11UIResponder", "dataSource"]
+- !private ["CSo11UIResponder", "dequeueReusableCellWithIdentifier"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "listOfRestrauntsTableView"]
+- ["CSo11UIResponder", "locationManager"]
+- ["CSo11UIResponder", "locationManagerDidPauseLocationUpdates"]
+- ["CSo11UIResponder", "locationManagerDidResumeLocationUpdates"]
+- ["CSo11UIResponder", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["CSo11UIResponder", "nameLabel"]
+- ["CSo11UIResponder", "numberOfSectionsInTableView"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "queryForTable"]
+- !private ["CSo11UIResponder", "reloadData"]
+- ["CSo11UIResponder", "restList"]
+- ["CSo11UIResponder", "sectionIndexTitlesForTableView"]
+- ["CSo11UIResponder", "tableView"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "user"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["CSo12UIScrollView", "dataSource"]
+- !private ["CSo12UIScrollView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo12UIScrollView", "reloadData"]
+- !private ["PSo16UIStateRestoring", "PFGeoPoint"]
+- !private ["PSo16UIStateRestoring", "PFUser"]
+- !private ["PSo16UIStateRestoring", "Restaurant"]
+- !private ["PSo16UIStateRestoring", "String"]
+- ["PSo16UIStateRestoring", "User"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "listOfRestrauntsTableView"]
+- ["PSo16UIStateRestoring", "locationManager"]
+- ["PSo16UIStateRestoring", "locationManagerDidPauseLocationUpdates"]
+- ["PSo16UIStateRestoring", "locationManagerDidResumeLocationUpdates"]
+- ["PSo16UIStateRestoring", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo16UIStateRestoring", "numberOfSectionsInTableView"]
+- !private ["PSo16UIStateRestoring", "print"]
+- ["PSo16UIStateRestoring", "queryForTable"]
+- ["PSo16UIStateRestoring", "restList"]
+- ["PSo16UIStateRestoring", "sectionIndexTitlesForTableView"]
+- ["PSo16UIStateRestoring", "tableView"]
+- ["PSo16UIStateRestoring", "user"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["CSo11UITableView", "dataSource"]
+- !private ["CSo11UITableView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo11UITableView", "reloadData"]
+- !private ["CSo15UITableViewCell", "awayLabel"]
+- !private ["CSo15UITableViewCell", "deinit"]
+- !private ["CSo15UITableViewCell", "nameLabel"]
+- !private ["PSo21UITableViewDataSource", "PFGeoPoint"]
+- !private ["PSo21UITableViewDataSource", "PFUser"]
+- !private ["PSo21UITableViewDataSource", "Restaurant"]
+- !private ["PSo21UITableViewDataSource", "String"]
+- ["PSo21UITableViewDataSource", "User"]
+- !private ["PSo21UITableViewDataSource", "listOfRestrauntsTableView"]
+- ["PSo21UITableViewDataSource", "locationManager"]
+- ["PSo21UITableViewDataSource", "locationManagerDidPauseLocationUpdates"]
+- ["PSo21UITableViewDataSource", "locationManagerDidResumeLocationUpdates"]
+- ["PSo21UITableViewDataSource", "locationManagerShouldDisplayHeadingCalibration"]
+- ["PSo21UITableViewDataSource", "numberOfSectionsInTableView"]
+- !private ["PSo21UITableViewDataSource", "print"]
+- !private ["PSo21UITableViewDataSource", "queryForTable"]
+- !private ["PSo21UITableViewDataSource", "restList"]
+- ["PSo21UITableViewDataSource", "sectionIndexTitlesForTableView"]
+- ["PSo21UITableViewDataSource", "tableView"]
+- !private ["PSo21UITableViewDataSource", "user"]
+- ["PSo21UITableViewDataSource", ""]
+- !private ["PSo18UITraitEnvironment", "PFGeoPoint"]
+- !private ["PSo18UITraitEnvironment", "PFUser"]
+- !private ["PSo18UITraitEnvironment", "Restaurant"]
+- !private ["PSo18UITraitEnvironment", "String"]
+- ["PSo18UITraitEnvironment", "User"]
+- !private ["PSo18UITraitEnvironment", "awayLabel"]
+- !private ["PSo18UITraitEnvironment", "dataSource"]
+- !private ["PSo18UITraitEnvironment", "dequeueReusableCellWithIdentifier"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "listOfRestrauntsTableView"]
+- ["PSo18UITraitEnvironment", "locationManager"]
+- ["PSo18UITraitEnvironment", "locationManagerDidPauseLocationUpdates"]
+- ["PSo18UITraitEnvironment", "locationManagerDidResumeLocationUpdates"]
+- ["PSo18UITraitEnvironment", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["PSo18UITraitEnvironment", "nameLabel"]
+- ["PSo18UITraitEnvironment", "numberOfSectionsInTableView"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "queryForTable"]
+- !private ["PSo18UITraitEnvironment", "reloadData"]
+- ["PSo18UITraitEnvironment", "restList"]
+- ["PSo18UITraitEnvironment", "sectionIndexTitlesForTableView"]
+- ["PSo18UITraitEnvironment", "tableView"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "user"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "awayLabel"]
+- !private ["CSo6UIView", "dataSource"]
+- !private ["CSo6UIView", "dequeueReusableCellWithIdentifier"]
+- !private ["CSo6UIView", "nameLabel"]
+- !private ["CSo6UIView", "reloadData"]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "NSIndexPath"]
+- !private ["CSo16UIViewController", "PFGeoPoint"]
+- !private ["CSo16UIViewController", "PFUser"]
+- ["CSo16UIViewController", "Restaurant"]
+- !private ["CSo16UIViewController", "RestaurantCell"]
+- !private ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UITableView"]
+- ["CSo16UIViewController", "UITableViewCell"]
+- ["CSo16UIViewController", "User"]
+- !private ["CSo16UIViewController", "Void"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "listOfRestrauntsTableView"]
+- ["CSo16UIViewController", "locationManager"]
+- ["CSo16UIViewController", "locationManagerDidPauseLocationUpdates"]
+- ["CSo16UIViewController", "locationManagerDidResumeLocationUpdates"]
+- ["CSo16UIViewController", "locationManagerShouldDisplayHeadingCalibration"]
+- ["CSo16UIViewController", "numberOfSectionsInTableView"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "queryForTable"]
+- ["CSo16UIViewController", "restList"]
+- ["CSo16UIViewController", "sectionIndexTitlesForTableView"]
+- ["CSo16UIViewController", "tableView"]
+- ["CSo16UIViewController", "user"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["VSs6UInt16", "deinit"]
+- !private ["VSs6UInt32", "deinit"]
+- !private ["VSs6UInt64", "deinit"]
+- !private ["VSs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "init"]
+- ["C15ComeTogetherNow4User", "init"]
+- !private ["C15ComeTogetherNow4User", "lastLocation"]
+- !private ["PSs10_ArrayType", "Generator"]
+- !private ["PSs10_ArrayType", "Index"]
+- !private ["PSs10_ArrayType", "SubSequence"]
+- !private ["PSs10_ArrayType", "count"]
+- !private ["PSs10_ArrayType", "subscript"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["PSs33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "init"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs16_CocoaStringType", "init"]
+- !private ["PSs24_DestructorSafeContainer", "Generator"]
+- !private ["PSs24_DestructorSafeContainer", "Index"]
+- !private ["PSs24_DestructorSafeContainer", "SubSequence"]
+- !private ["PSs24_DestructorSafeContainer", "count"]
+- !private ["PSs24_DestructorSafeContainer", "subscript"]
+- !private ["PSs14_Incrementable", "Distance"]
+- !private ["PSs14_Incrementable", "IntegerLiteralType"]
+- !private ["PSs22_IntegerArithmeticType", "Distance"]
+- !private ["PSs22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["PSs12_IntegerType", "Distance"]
+- !private ["PSs12_IntegerType", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "Distance"]
+- !private ["PSs21_ObjectiveCBridgeable", "Generator"]
+- !private ["PSs21_ObjectiveCBridgeable", "Index"]
+- !private ["PSs21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["PSs21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "count"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "subscript"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs22_RandomAccessAmbiguity", "Distance"]
+- !private ["PSs22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["PSs12_Reflectable", "Distance"]
+- !private ["PSs12_Reflectable", "Generator"]
+- !private ["PSs12_Reflectable", "Index"]
+- !private ["PSs12_Reflectable", "IntegerLiteralType"]
+- !private ["PSs12_Reflectable", "SubSequence"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "awayLabel"]
+- !private ["PSs12_Reflectable", "count"]
+- !private ["PSs12_Reflectable", "dataSource"]
+- !private ["PSs12_Reflectable", "dequeueReusableCellWithIdentifier"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "nameLabel"]
+- !private ["PSs12_Reflectable", "reloadData"]
+- !private ["PSs12_Reflectable", "subscript"]
+- !private ["PSs12_Reflectable", "text"]
+- !private ["PSs18_SignedIntegerType", "Distance"]
+- !private ["PSs18_SignedIntegerType", "IntegerLiteralType"]
+- !private ["PSs11_Strideable", "Distance"]
+- !private ["PSs11_Strideable", "IntegerLiteralType"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sa"
+- !private "PSs23ArrayLiteralConvertible"
+- !private "VSs10ArraySlice"
+- !private "PSs22BidirectionalIndexType"
+- !private "PSs21BitwiseOperationsType"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSo25CLLocationManagerDelegate"
+- "PSs11CVarArgType"
+- !private "VSs9Character"
+- !private "PSs14CollectionType"
+- !private "PSs10Comparable"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- !private "PSs16ForwardIndexType"
+- !private "PSs13GeneratorType"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "VSs17IndexingGenerator"
+- !private "Si"
+- !private "VSs5Int16"
+- !private "VSs5Int32"
+- !private "VSs5Int64"
+- !private "VSs4Int8"
+- !private "PSs21IntegerArithmeticType"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "PSs11IntegerType"
+- !private "PSs14MirrorPathType"
+- !private "PSs21MutableCollectionType"
+- !private "PSs16MutableIndexable"
+- !private "PSs16MutableSliceable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "CSo11NSIndexPath"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Sq"
+- !private "PSs16OutputStreamType"
+- !private "CSo10PFGeoPoint"
+- "CSo8PFObject"
+- !private "CSo7PFQuery"
+- "PSo13PFSubclassing"
+- "CSo6PFUser"
+- !private "PSs21RandomAccessIndexType"
+- !private "PSs30RangeReplaceableCollectionType"
+- !private "C15ComeTogetherNow10Restaurant"
+- !private "C15ComeTogetherNow14RestaurantCell"
+- "C15ComeTogetherNow20SecondViewController"
+- !private "PSs12SequenceType"
+- !private "PSs17SignedIntegerType"
+- !private "PSs16SignedNumberType"
+- !private "VSs5Slice"
+- !private "PSs10Streamable"
+- !private "PSs10Strideable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- !private "CSo12UIScrollView"
+- "PSo16UIStateRestoring"
+- !private "CSo11UITableView"
+- !private "CSo15UITableViewCell"
+- "PSo21UITableViewDataSource"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "VSs6UInt16"
+- !private "VSs6UInt32"
+- !private "VSs6UInt64"
+- !private "VSs5UInt8"
+- !private "Sc"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- "C15ComeTogetherNow4User"
+- !private "PSs10_ArrayType"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs33_BuiltinIntegerLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs16_CocoaStringType"
+- !private "PSs24_DestructorSafeContainer"
+- !private "PSs14_Incrementable"
+- !private "PSs22_IntegerArithmeticType"
+- !private "PSs12_IntegerType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- !private "PSs22_RandomAccessAmbiguity"
+- !private "PSs12_Reflectable"
+- !private "PSs18_SignedIntegerType"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/Bolts.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFTask.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFDefines.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFURL_Internal.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFURL.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFMeasurementEvent_Internal.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkReturnToRefererView_Internal.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLink_Internal.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Headers/Bolts-umbrella.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Bolts.framework/Modules/module.modulemap"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFPurchase.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFProduct.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFPush.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFNetworkActivityIndicatorManager.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFInstallation.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFUserAuthenticationDelegate.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFSession.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFRole.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFRelation.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFQuery.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFObject+Subclass.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFGeoPoint.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFFile.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFConfig.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFCloud.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFSubclassing.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFObject.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFUser.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFAnonymousUtils.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFConstants.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFAnalytics.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/PFACL.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/Parse.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Headers/Parse-umbrella.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/Parse.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreLocation.swiftmodule"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/ParseUI.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFTableViewCell.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFPurchaseTableViewCell.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFCollectionViewCell.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFTextField.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFImageView.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFProductTableViewController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFQueryCollectionViewController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFQueryTableViewController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFSignUpViewController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFSignUpView.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFLogInViewController.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFLogInView_Private.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/ParseUIConstants.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/PFLogInView.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Headers/ParseUI-umbrella.h"
+- "/Users/brycegreene/Projects/ComeTogetherNow/DerivedData/ComeTogetherNow/Build/Products/Debug-iphoneos/ParseUI.framework/Modules/module.modulemap"
+interface-hash: "a04fc363c0faa73dd5be97a8c726d2ff"

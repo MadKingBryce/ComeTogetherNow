@@ -1,0 +1,39 @@
+PODS:
+  - Bolts (1.6.0):
+    - Bolts/AppLinks (= 1.6.0)
+    - Bolts/Tasks (= 1.6.0)
+  - Bolts/AppLinks (1.6.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.6.0)
+  - CardIO (5.3.1)
+  - Parse (1.12.0):
+    - Bolts/Tasks (~> 1.5)
+  - ParseTwitterUtils (1.10.0):
+    - Bolts/Tasks (~> 1.5)
+    - Parse (~> 1.9)
+  - ParseUI (1.2.0):
+    - Bolts/Tasks (~> 1.3)
+    - Parse (~> 1.9)
+  - PayPal-iOS-SDK (2.13.2):
+    - PayPal-iOS-SDK/CardIO (= 2.13.2)
+    - PayPal-iOS-SDK/Core (= 2.13.2)
+  - PayPal-iOS-SDK/CardIO (2.13.2):
+    - CardIO (~> 5.3.1)
+  - PayPal-iOS-SDK/Core (2.13.2)
+
+DEPENDENCIES:
+  - Bolts
+  - Parse
+  - ParseTwitterUtils
+  - ParseUI
+  - PayPal-iOS-SDK
+
+SPEC CHECKSUMS:
+  Bolts: f52a250053bb517ca874523c3913776359ab3def
+  CardIO: a299efcd0348c3b256a1da53f22951319c3855a2
+  Parse: de2c52a9a1421b91ae7594ab8ce191afd184f19b
+  ParseTwitterUtils: 8856ac80da50bbb0f0bcf251def20b62e1ae6bc4
+  ParseUI: af2eba584799da4a9fbdac0e178662d7438b502e
+  PayPal-iOS-SDK: bb1dc77443d3b6817554251015da982e6c5bf549
+
+COCOAPODS: 0.38.2

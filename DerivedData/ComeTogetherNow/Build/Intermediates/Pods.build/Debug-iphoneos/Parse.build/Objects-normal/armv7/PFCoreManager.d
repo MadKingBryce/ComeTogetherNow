@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCoreManager.m \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Target\ Support\ Files/Parse/Parse-prefix.pch \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCoreManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFCoreDataProvider.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFDataProvider.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFAssert.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFMacros.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Query/Controller/PFCachedQueryController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Query/Controller/PFQueryController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFConstants.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/CloudCode/PFCloudCodeController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Config/Controller/PFConfigController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/User/CurrentUserController/PFCurrentUserController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/CurrentController/PFCurrentObjectControlling.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/File/Controller/PFFileController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/PFLocationManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/BatchController/PFObjectBatchController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/Controller/PFObjectController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/Controller/PFObjectControlling.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/FilePersistence/PFObjectFilePersistenceController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/LocalIdStore/PFObjectLocalIdStore.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/Subclassing/PFObjectSubclassingController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/Controller/OfflineController/PFOfflineObjectController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Query/Controller/PFOfflineQueryController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Object/PinningStore/PFPinningObjectStore.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Session/Controller/PFSessionController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/User/AuthenticationProviders/Controller/PFUserAuthenticationController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFUserAuthenticationDelegate.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/User/Controller/PFUserController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Installation/CurrentInstallationController/PFCurrentInstallationController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Parse/Parse/Internal/Installation/Controller/PFInstallationController.h

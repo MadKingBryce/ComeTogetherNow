@@ -1,0 +1,38 @@
+dependencies: \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/ParseUI/ParseUI/Classes/QueryCollectionViewController/PFQueryCollectionViewController.m \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Target\ Support\ Files/ParseUI/ParseUI-prefix.pch \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/ParseUI/ParseUI/Classes/QueryCollectionViewController/PFQueryCollectionViewController.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/ParseUI/ParseUIConstants.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFTask.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFCancellationToken.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFCancellationTokenRegistration.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFDefines.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Bolts/BFTaskCompletionSource.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/Parse.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFACL.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFAnalytics.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFConstants.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFAnonymousUtils.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFUser.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFObject.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFSubclassing.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFCloud.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFConfig.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFFile.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFGeoPoint.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFObject+Subclass.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFQuery.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFRelation.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFRole.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFSession.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFUserAuthenticationDelegate.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFInstallation.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFNetworkActivityIndicatorManager.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFPush.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFProduct.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/Parse/PFPurchase.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/ParseUI/ParseUI/Classes/Internal/Cells/PFActivityIndicatorCollectionReusableView.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/ParseUI/PFCollectionViewCell.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/Headers/Private/ParseUI/PFImageView.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/ParseUI/ParseUI/Classes/Internal/Views/PFLoadingView.h \
+  /Users/brycegreene/Projects/ComeTogetherNow/Pods/ParseUI/ParseUI/Classes/Internal/PFLocalization.h

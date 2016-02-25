@@ -1,0 +1,22 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "51bbdf45b3a682ff60b61b368f4aff91"
+build_time: [509736140, 791750000]
+inputs:
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/AppDelegate.swift": [509723774, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/UserTray.swift": [507323201, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/Order.swift": [509495355, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/MenuItemCell.swift": [509054993, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/FirstViewController.swift": [508621466, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/Utils.swift": [509226468, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/TopScrollCellCollectionViewCell.swift": [509255116, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/RestaurantCell.swift": [509484706, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/SpecialRequestViewController.swift": [509578679, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/MenuItemView.swift": [509488106, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/RequestCell.swift": [509573244, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/MenuCollectionViewController.swift": [509736138, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/MenuItem.swift": [508949978, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/User.swift": [507323201, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/Models/Restaurant.swift": [509253128, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/Menu.swift": [507409605, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/TopScrollDelegate.swift": [509576311, 0]
+  "/Users/brycegreene/Projects/ComeTogetherNow/ComeTogetherNow/SecondViewController.swift": [509552405, 0]
